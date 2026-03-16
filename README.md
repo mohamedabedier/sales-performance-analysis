@@ -29,19 +29,14 @@ Based on the data analysis, the following actions are recommended:
 
 ## 📸 Dashboard Preview
 
-### 1. Executive Summary & KPIs
-*An overview of total revenue, overall sales volume, and high-level performance.*
-![Executive Summary](Dashboard%201.png)
+### 1. Regional Sales Performance
+*An executive overview highlighting total revenue, overall sales volume, and performance across different geographic regions.*
+![Regional Sales Performance](Dashboard%201.png)
 
-### 2. Regional & Category Analysis
-*A breakdown of sales distribution across different regions and product categories.*
-![Regional & Category Analysis](Dashboard%202.png)
+### 2. Team Performance & Sales Reps
+*A detailed breakdown of individual sales representative performance and their contributions to the company's goals.*
+![Team Performance & Sales Reps](Dashboard%202.png)
 
-### 3. Sales Trends & Team Performance
-*Month-over-month revenue trends and individual Sales Representative performance.*
-![Sales Trends & Team Performance](Dashboard%203.png)
-
-## 🛠️ How to Use This Project
-1. Download the `sales-performance.xlsx` file from this repository.
-2. Open the file in Microsoft Excel. 
-3. The file contains the raw data sheet for your own exploration, the pre-built Pivot Tables, and the interactive Main Dashboard.
+### 3. Sales Trends & Product Analysis
+*An analysis of month-over-month sales trends and the performance of specific product items and categories.*
+![Sales Trends & Product Analysis](Dashboard%203.png)
